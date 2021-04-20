@@ -1,5 +1,4 @@
-# Capstone Project - Data Science, BrainStation
-
+# Capstone Project
 In this project I will test different models to answer the question "How can we use machine learning to identify a bird by it's song?". 
 
 This is an interesting problem to solve - bird song is not static, having the features of time and direction.
